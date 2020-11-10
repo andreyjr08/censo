@@ -3,19 +3,44 @@ $(document).ready(function () {
     $('#add').click(function () {
         i++;
         $('#dynamic_field').append('' +
-            '<tr id="row' + i + '">' +console.log(i)+
+            '<tr>' +
+            '<td colspan="4"></td>' +
+            '</tr>'+
+            '<tr id="row' + i + '">'+
             '<td>' +
-            '<input type="text"  name="name[' + i + ']" placeholder="Ingrese Nombres" class="form-control name_list" />' +
+            '<input type="text"  name="name[]" placeholder="Primer Nombre" class="form-control name_list" />' +
+            '</td>' +
+            '<td>' +
+            '<input type="text" name="name[]" placeholder="Segundo Nombre" class="form-control name_list" />' +
             '</td>' +
             '<td>' +
             '<input type="text" name="name[]" placeholder="Primer Apellido" class="form-control name_list" />' +
             '</td>' +
+            '<tr>' +
+
+            '<tr id="row' + i + '">'+
             '<td>' +
             '<input type="text" name="name[]" placeholder="Segundo Apellido" class="form-control name_list" />' +
             '</td>' +
             '<td>' +
-            '<button type="button" name="remove" id="' + i + '" class="btn btn-danger btn_remove">X</button>' +
+            '<input type="text" name="name[]" placeholder="Edad" class="form-control name_list" />' +
             '</td>' +
+            '<td>' +
+            '<input type="text" name="name[]" placeholder="Sexo" class="form-control name_list" />' +
+            '</td>' +
+            '<tr>' +
+
+            '<tr id="row' + i + '">'+
+            '<td>' +
+            '<input type="text" name="name[]" placeholder="Escolaridad" class="form-control name_list" />' +
+            '</td>' +
+            '<td>' +
+            '<input type="text" name="name[]" placeholder="Ocupacion" class="form-control name_list" />' +
+            '</td>' +
+            '<td>' +
+            '<input type="text" name="name[]" placeholder="Numero de Documento" class="form-control name_list" />' +
+            '</td>' +
+            '<button type="button" name="remove" id="' + i + '" class="btn btn-danger btn_remove">X</button>' +
             '</tr>');
     });
 

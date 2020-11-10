@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d339c7a9-9d85-40a2-9f84-432a7e711d16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/html/formulario.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/formulario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/reportes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/reportes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k4unaNkw38eBasQA3k8Ks6b67y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d339c7a9-9d85-40a2-9f84-432a7e711d16" name="Default Changelist" comment="" />
+      <created>1604972359393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604972359393</updated>
+      <workItem from="1604972364498" duration="9051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="66" key="RollbackChangesDialog" timestamp="1604974545416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604974545416" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1604977356988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604977356988" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604978041440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604978041440" />
+  </component>
+</project>
